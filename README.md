@@ -26,6 +26,8 @@ To install: add node.js to start the server for server.js.  After it has been in
 
 to be used by anyone
 
+* ![Instructional Video](https://youtu.be/xBRlVX3DLT8)
+
 ## Credits
 
 nchow18
