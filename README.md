@@ -26,7 +26,7 @@ To install: add node.js to start the server for server.js.  After it has been in
 
 to be used by anyone
 
-[![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/xBRlVX3DLT8)
+[![Instructional Video On YOUTUBE](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/xBRlVX3DLT8)
 
 ## Credits
 
