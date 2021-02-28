@@ -4,7 +4,7 @@
 # PROJECT TITLE: Note Taker
 
 * [Link to GitHub](https://github.com/nchow18)
-* [Email]: (mailto:emailme@nathanchow.ca)
+* [Email]:(mailto:emailme@nathanchow.ca)
 
 ## DESCRIPTION:
 
@@ -25,6 +25,8 @@ To install: add node.js to start the server for server.js.  After it has been in
 ## Usage
 
 to be used by anyone
+
+* ![Instructional Video](https://youtu.be/xBRlVX3DLT8)
 
 ## Credits
 
